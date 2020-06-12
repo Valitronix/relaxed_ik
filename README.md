@@ -6,7 +6,7 @@
 
 <strong>Robot autonomy for camera control assistance.</strong>
 
-Demo Video 
+Demo Video (Click to play)
 
 [![Kinova dual arm robot manipulator](http://img.youtube.com/vi/lwVXYiFdlOc/0.jpg)](https://youtu.be/lwVXYiFdlOc "Kinova dual arm robot manipulator")
 
